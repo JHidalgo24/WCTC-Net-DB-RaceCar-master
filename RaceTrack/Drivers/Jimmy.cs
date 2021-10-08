@@ -7,7 +7,7 @@ namespace RaceTrack.RaceTrack.Drivers
         public Jimmy(RaceCar car) : base(car)
         {
             Name = "Jimmy";
-            SkillLevel = 2;
+            SkillLevel = 9;
         }
 
         public override void Drive()

@@ -5,8 +5,8 @@ namespace RaceTrack.RaceTrack.Cars
     public class MiniCooper : RaceCar
     {
         public MiniCooper() {
-            Name = "Mini Cooper";
-            TopSpeed = 5;
+            Name = "engine swapped Mini Cooper";
+            TopSpeed = 125;
         }
 
         public override void StartEngine()
